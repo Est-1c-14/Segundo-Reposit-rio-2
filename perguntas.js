@@ -7,7 +7,7 @@ criaCartao{
 criaCartao{
     'Geografia',
     'Qual é a capital da França?',
-    'O Python é uma linguagem de programação'
+    'Paris'
 }
 
 criaCartao{
