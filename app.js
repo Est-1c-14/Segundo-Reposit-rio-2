@@ -17,9 +17,9 @@ function criaCartao(categoria, pergunta, resposta) {
 
     let respostaEstaVisivel = false
 
-    function viraCartao () {
+    function viraCartao() {
         respostaEstaVisivel = !respostaEstaVisivel;
-        cartao.classList.toggie('active', viraCartao);
+        cartao.classList.toggie('active', respostaEstaVisivel);
     }
     cartao.addEventListener('click', viraCartao);
 
