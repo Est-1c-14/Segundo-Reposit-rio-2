@@ -22,7 +22,7 @@ body {
     background-color: aqua;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(20% -6rem); /* 5 cartôes por linha */
+    flex-basis: calc(20% -2rem); /* 5 cartôes por linha */
 }
 
 .cartao__conteudo {
